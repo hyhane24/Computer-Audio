@@ -1,0 +1,38 @@
+Hane Yie 
+CE 3 WriteUp
+
+I used BiquadFilter (duckFilter) for ducking the background sound, just as taught in class. 
+The background sound is ducked when voice 1 or 2 play buttons are pressed. 
+Then it resumes back on looping after the voice playing ends. 
+
+** Error Note 
+
+As you can see in my /data/ folder, you can see that there are 2 .wav files. 
+These are two of my voice recordings as instructed. 
+
+However, when I compiled
+
+voice1 = getSamplePlayer("voice_1.wav");
+voice2 = getSamplePlayer("voice_2.wav");
+
+Errors occurred and the sketch itself could not be compiled. 
+
+In order to have the sketch at least compiled to show functionality, I had 
+
+voice1 = getSamplePlayer("pho.wav");
+voice2 = getSamplePlayer("pho.wav");
+
+As dummy data. The file "pho.wav" is what I used for CE1, a .wav file that Beads could compile. 
+This is NOT my recording, it is from sound source. I thought I should make a note. 
+
+With this input, the sketch works. All the music loops, button plays, and sliders all work. 
+But when either pressing Voice1 or Voice2 buttons, another music will play instead of my voice. 
+
+pho.wav was used for both Voice1 and Voice2 placeholders so when looking at if Voice1 stops when playing Voice2, please listen closely. 
+
+Thank you and I apologize for the inconvenience. I tried exporting the voice.wav files multiple times but could not figure it out. 
+
+If a feedback comment for resolving this problem could be given, I would truly appreciate it. 
+
+
+Thank you again :) 

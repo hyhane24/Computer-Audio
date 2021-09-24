@@ -1,0 +1,18 @@
+FreeSound Source URL: https://freesound.org/people/Flick3r/sounds/59122/
+
+// I had trouble finding the audio file readable by Beads so there are couple of audio files in /data as a result of trial and error
+// The one I used was pho.wav, which thankfully worked!
+
+
+--
+
+If you use a custom UGen (Unit Generator) for your exercise, describe it below:
+
+
+I used Biquad Filter, as taught during lecture, as a custom UGen for this assignment. 
+The frequency of the .wav sound gets filtered through the UI control. 
+Uncomment the .setNumberOfTickMarks (line 58) to see margins by 5 on the slider (just a customization :) )
+Move around the slider control to test the sounds. 
+
+
+Thank you! 

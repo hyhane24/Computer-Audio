@@ -1,0 +1,20 @@
+Hane Yie 
+CS 4590 
+
+Class Exercise #4
+
+All the features for play, stop, fast forward, rewind, and reset were implemented as taught in class based on the source code provided on Canvas. 
+
+The margining of the buttons were calculated based on the size of set up.
+
+Play and pause/stop have 1 and 0 rates of course, but rates for fast forward and rewind were slightly adjusted considering the length of music (a little over one minute). Please feel free to change these values (based on testing, value 10 is probably the maximum value to put as rates beyond that point makes the playing unrecognizable) if you find the music too long. The current rates are 5 and -5 each. 
+
+As the main music, main theme song from Spongebob was used in .wav form. Spongebob is one of my favorite animations :) 
+
+For UI sound effects, I used two types of beeping sounds for play and stop clicks. Play sound is more sharp beep and stop sound is more "thud", heavy beep sound. I tried to match them to the sounds I remember when using cassette tape player. For other buttons such as fast forward, rewind, and reset, I used more of "click" sounds. These were all based on my personal experience with cassette player in the past. All the sounds are in .wav forms and 0~1 seconds long so they should not interfere with testing the music. Not to mention actually resembling the physical player button sound durations. 
+
+Thank you!
+
+
+
+
