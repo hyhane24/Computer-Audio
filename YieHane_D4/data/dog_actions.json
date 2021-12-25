@@ -1,0 +1,338 @@
+[
+  {
+    "type": "HeartBeat",
+    "timestamp": 100,
+    "tag": "cautious",
+    "flag": "on",
+    "priority": 2,
+    "note": ""
+  },
+  {
+    "type": "Bark",
+    "timestamp": 1000,
+    "tag": "warning",
+    "flag": "on",
+    "priority": 1,
+    "note": ""
+  },
+  {
+    "type": "HeartBeat",
+    "timestamp": 1100,
+    "tag": "cautious",
+    "flag": "on",
+    "priority": 2,
+    "note": ""
+  },
+  {
+    "type": "HeartBeat",
+    "timestamp": 1200,
+    "tag": "cautious",
+    "flag": "on",
+    "priority": 2,
+    "note": ""
+  },
+  {
+    "type": "HeartBeat",
+    "timestamp": 1900,
+    "tag": "cautious",
+    "flag": "on",
+    "priority": 2,
+    "note": ""
+  },
+  {
+    "type": "Sleep",
+    "timestamp": 1900,
+    "tag": "stable",
+    "flag": "off",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "Bark",
+    "timestamp": 2000,
+    "tag": "warning",
+    "flag": "on",
+    "priority": 1,
+    "note": ""
+  },
+  {
+    "type": "FoodEat",
+    "timestamp": 2300,
+    "tag": "stable",
+    "flag": "off",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "HeartBeat",
+    "timestamp": 3000,
+    "tag": "cautious",
+    "flag": "on",
+    "priority": 2,
+    "note": ""
+  },
+  {
+    "type": "FoodEat",
+    "timestamp": 3100,
+    "tag": "stable",
+    "flag": "off",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "FoodEat",
+    "timestamp": 3900,
+    "tag": "stable",
+    "flag": "off",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "FoodEat",
+    "timestamp": 4260,
+    "tag": "stable",
+    "flag": "off",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "FoodEat",
+    "timestamp": 4300,
+    "tag": "stable",
+    "flag": "off",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "FoodEat",
+    "timestamp": 4400,
+    "tag": "stable",
+    "flag": "off",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "Squeal",
+    "timestamp": 4450,
+    "tag": "warning",
+    "flag": "on",
+    "priority": 1,
+    "note": ""
+  },
+  {
+    "type": "Bark",
+    "timestamp": 6000,
+    "tag": "warning",
+    "flag": "on",
+    "priority": 1,
+    "note": ""
+  },
+  {
+    "type": "FoodEat",
+    "timestamp": 6300,
+    "tag": "stable",
+    "flag": "off",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "FoodEat",
+    "timestamp": 6340,
+    "tag": "stable",
+    "flag": "off",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "HeartBeat",
+    "timestamp": 9000,
+    "tag": "cautious",
+    "flag": "on",
+    "priority": 2,
+    "note": ""
+  },
+  {
+    "type": "Play",
+    "timestamp": 9000,
+    "tag": "stable",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "HeartBeat",
+    "timestamp": 9950,
+    "tag": "cautious",
+    "flag": "on",
+    "priority": 2,
+    "note": ""
+  },
+  {
+    "type": "Play",
+    "timestamp": 10000,
+    "tag": "stable",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "FoodEat",
+    "timestamp": 10200,
+    "tag": "stable",
+    "flag": "off",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "FoodEat",
+    "timestamp": 10250,
+    "tag": "stable",
+    "flag": "off",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "Play",
+    "timestamp": 12000,
+    "tag": "stable",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "FoodEat",
+    "timestamp": 12000,
+    "tag": "stable",
+    "flag": "off",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "Play",
+    "timestamp": 22000,
+    "tag": "stable",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "HeartBeat",
+    "timestamp": 23800,
+    "tag": "cautious",
+    "flag": "on",
+    "priority": 2,
+    "note": ""
+  },
+  {
+    "type": "Play",
+    "timestamp": 23800,
+    "tag": "stable",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "Play",
+    "timestamp": 24000,
+    "tag": "stable",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "Squeal",
+    "timestamp": 25000,
+    "tag": "warning",
+    "flag": "on",
+    "priority": 1,
+    "note": "Strong attention needed"
+  },
+  {
+    "type": "FoodEat",
+    "timestamp": 28000,
+    "tag": "stable",
+    "flag": "off",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "FoodEat",
+    "timestamp": 32200,
+    "tag": "stable",
+    "flag": "off",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "Bark",
+    "timestamp": 33000,
+    "tag": "warning",
+    "flag": "on",
+    "priority": 1,
+    "note": ""
+  },
+  {
+    "type": "Bark",
+    "timestamp": 34000,
+    "tag": "warning",
+    "flag": "on",
+    "priority": 1,
+    "note": ""
+  },
+  {
+    "type": "Play",
+    "timestamp": 34600,
+    "tag": "stable",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "HeartBeat",
+    "timestamp": 34700,
+    "tag": "cautious",
+    "flag": "on",
+    "priority": 2,
+    "note": ""
+  },
+  {
+    "type": "Play",
+    "timestamp": 34700,
+    "tag": "stable",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "FoodEat",
+    "timestamp": 35000,
+    "tag": "stable",
+    "flag": "off",
+    "priority": 3,
+    "note": ""
+  },
+  {
+    "type": "HeartBeat",
+    "timestamp": 40000,
+    "tag": "cautious",
+    "flag": "on",
+    "priority": 2,
+    "note": ""
+  },
+  {
+    "type": "Bark",
+    "timestamp": 42000,
+    "tag": "warning",
+    "flag": "on",
+    "priority": 1,
+    "note": ""
+  },
+  {
+    "type": "Play",
+    "timestamp": 60000,
+    "tag": "stable",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  }
+]

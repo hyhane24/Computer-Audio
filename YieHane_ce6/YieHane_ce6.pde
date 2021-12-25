@@ -130,7 +130,7 @@ public void modeSwitch(){
   }
 }
 
-/*
+
 
 public void gSlider0(float v){
   for (int i = 0, n = 1; i < waveCount; i++, n++){
@@ -148,7 +148,7 @@ public void gSlider7(float v) { waveGain[7].setGain(v);}
 public void gSlider8(float v) { waveGain[8].setGain(v);}
 public void gSlider9(float v) { waveGain[9].setGain(v);}
 
-*/
+
 
 public void sineB() {
   for (int i = 0, n = 1; i < waveCount; i++, n++) {
